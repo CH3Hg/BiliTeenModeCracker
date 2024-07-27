@@ -14,6 +14,7 @@ adb  用于adb输入
 7.使用数据线连接手机后双击运行脚本（不要通过IDLE运行，会在倒计时那一步卡住）  
 ##### 联系作者
 QQ：3801008246  
+QQ-项目研发群：963833173  
 E-mail：ch3hg1024@gmail.com
 ###### 翻译由ChatGPT-4o提供
 # Bilibili Teen Mode Password Automation Cracking Program
@@ -32,5 +33,6 @@ adb: Used for adb input
 7.Connect your phone via a data cable and double-click to run the script (do not run through IDLE, as it will get stuck at the countdown step).  
 ##### Contact me
 QQ:3801008246  
+QQ-ProjectDevelopTeam:963833173  
 E-mail:ch3hg1024@gmail.com
 ###### Translation provided by ChatGPT-4o.
