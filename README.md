@@ -17,6 +17,9 @@ adb  用于subprocess库的支持
 6.下载脚本  
 7.打开手机的“ADB调试”，通常还需打开“开发者选项”  
 8.使用数据线连接手机后双击运行脚本（不要通过IDLE运行，会在倒计时那一步卡住）  
+##### 联系作者
+QQ：3801008246  
+E-mail：ch3hg1024@gmail.com
 ###### 翻译由ChatGPT-4o提供
 # Bilibili Teen Mode Password Automation Cracking Program
 This is a Bilibili Teen Mode password automation cracking program based on Python.
@@ -37,4 +40,7 @@ adb: Used to support the subprocess library
 6.Download the script.  
 7.Enable "ADB debugging" on your phone, usually found in "Developer Options".  
 8.Connect your phone via a data cable and double-click to run the script (do not run through IDLE, as it will get stuck at the countdown step).  
+##### Contact me
+QQ:3801008246  
+E-mail:ch3hg1024@gmail.com
 ###### Translation provided by ChatGPT-4o.
