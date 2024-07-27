@@ -13,9 +13,8 @@ user_agreement_Chinese = """
 3. 本程序需要获取手机的ADB权限，需要打开开发者模式后启用，我们不会用此权限收集您的任何数据或破坏设备
 4. 使用本程序即代表您知晓并确认使用此程序带来的一切法律后果，与本程序作者和代码托管平台（github）无关
 5. 请在程序运行期间保持手机屏幕常亮，并不要切换至其它页面，以免造成意外
-6. 本程序需要其他第三方运行库，运行库缺失会导致程序运行失败
-7. 关于本程序的详细使用说明，请参考github：https://github.com/CH3Hg/bilibili-teenager_mode-code_breaker/blob/main/README.md
-8. 作者保留该用户协议法律范围内的最终解释权
+6. 关于本程序的详细使用说明，请参考github：https://github.com/CH3Hg/bilibili-teenager_mode-code_breaker/blob/main/README.md
+7. 作者保留该用户协议法律范围内的最终解释权
 """
 
 user_agreement_English = """
@@ -25,9 +24,8 @@ User Agreement v1.1.0
 3. This program requires ADB permissions on the phone, which need to be enabled after opening developer mode. We will not use this permission to collect any data or damage the device.
 4. By using this program, you acknowledge and confirm that all legal consequences arising from the use of this program have nothing to do with the author of this program and the code hosting platform (GitHub).
 5. Please keep the phone screen on during the program's operation, and do not switch to other pages to avoid accidents.
-6. This program requires other third-party libraries. Missing libraries will cause the program to fail.
-7. For detailed instructions on using this program, please refer to GitHub: https://github.com/CH3Hg/bilibili-teenager_mode-code_breaker/blob/main/README.md
-8. The author reserves the right of final interpretation of this user agreement within the scope of the law.
+6. For detailed instructions on using this program, please refer to GitHub: https://github.com/CH3Hg/bilibili-teenager_mode-code_breaker/blob/main/README.md
+7. The author reserves the right of final interpretation of this user agreement within the scope of the law.
 """
 
 print('==========BiliTeenModeCracker v1.1.0==========')
