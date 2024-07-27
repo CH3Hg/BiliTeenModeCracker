@@ -7,7 +7,7 @@ import sys
 times = 0  # 重置尝试次数
 
 user_agreement_Chinese = """
-用户协议 v1.0.0-alpha.1
+用户协议 v1.0.0
 1. 用户应当详细阅读本须知，确认同意后方可使用本程序 
 2. 本程序所有代码完全开源至github：https://github.com/CH3Hg/bilibili-teenager_mode-code_breaker，但需遵守其相关开源协议
 3. 本程序需要获取手机的ADB权限，需要打开开发者模式后启用，我们不会用此权限收集您的任何数据或破坏设备
@@ -19,7 +19,7 @@ user_agreement_Chinese = """
 """
 
 user_agreement_English = """
-User Agreement v1.0.0-alpha.1
+User Agreement v1.0.0
 1. Users should read this notice carefully and agree before using this program.
 2. All code of this program is fully open source on GitHub: https://github.com/CH3Hg/bilibili-teenager_mode-code_breaker, but it must comply with the relevant open source license.
 3. This program requires ADB permissions on the phone, which need to be enabled after opening developer mode. We will not use this permission to collect any data or damage the device.
