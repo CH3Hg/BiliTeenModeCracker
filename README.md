@@ -29,7 +29,7 @@ itertools: Used for generating password combinations
 ## Additional Components Required
 adb: Used to support the subprocess library
 ## Usage
-1.Download ADB from https://developer.android.com/tools/releases/platform-tools?hl=zh-cn.  
+1.Download ADB from https://developer.android.com/tools/releases/platform-tools.  
 2.Extract the compressed package and place the folder in the root directory of any drive other than the C drive.  
 3.Add it to the environment variables.  
 4.Download and install Python from https://www.python.org/downloads/.  
