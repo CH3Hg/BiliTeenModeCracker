@@ -11,7 +11,11 @@ adb  用于adb输入
 4.下载并安装python https://www.python.org/downloads/    
 5.下载脚本  
 6.打开手机的“ADB调试”，通常还需打开“开发者选项”  
-7.使用数据线连接手机后双击运行脚本（不要通过IDLE运行，会在倒计时那一步卡住）  
+7.使用数据线连接手机后双击运行脚本（不要通过IDLE运行，会在倒计时那一步卡住）
+## 配置文件（仅限v1.2.0-beta）
+[settings]  
+languange = 1 （1：English，2：简体中文）  
+mode = 1 （1：自动模式，2：洪水模式）  
 ##### 联系作者
 QQ：3801008246  
 QQ-项目研发群：963833173  
@@ -35,4 +39,8 @@ adb: Used for adb input
 QQ:3801008246  
 QQ-ProjectDevelopTeam:963833173  
 E-mail:ch3hg1024@gmail.com
+## Config File(only v1.2.0-beta)
+[settings]   
+languange = 1 (1：English，2：简体中文)  
+mode = 1 (1：auto，2：flood)  
 ###### Translation provided by ChatGPT-4o.
