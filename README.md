@@ -44,3 +44,4 @@ E-mail:ch3hg1024@gmail.com
 languange = 1 (1：English，2：简体中文)  
 mode = 1 (1：auto，2：flood)  
 ###### Translation provided by ChatGPT-4o.
+作者将于2024/9/1无限期暂停维护更新！
